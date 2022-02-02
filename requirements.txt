@@ -1,0 +1,5 @@
+flask
+flask-alchemy
+flask-migrate
+ipython
+python-dotenv #co to jest?
